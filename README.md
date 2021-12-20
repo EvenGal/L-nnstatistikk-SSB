@@ -1,2 +1,2 @@
-# L-nnstatistikk-SSB
+# Lønnstatistikk-SSB
 Visualisering av lønnstatistikk fra SSB statistikkbank. 
